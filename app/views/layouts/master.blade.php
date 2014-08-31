@@ -175,7 +175,7 @@ $(document).ready(function () {
             <div class="row footer-row">
                 <div class="span3 footer-col">
                     <h5>Contact Us</h5>
-                   <img src="/img/wonder-footer-logo.png" alt="Wonder" ><br><br>
+                   <img src="/img/logo.png" alt="Wonder" ><br><br>
                     <address>
                         <strong>Wonder Bunker</strong><br>
                         6064 Amazing St, <br>
