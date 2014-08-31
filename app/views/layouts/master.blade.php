@@ -87,46 +87,40 @@ $(document).ready(function () {
         <div class="span7 navigation">
             <div class="navbar hidden-phone">
 
-            <ul class="nav">
-            <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="index-1.htm">Home <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="index">Full Page</a></li>
-                    <li><a href="index-gallery.htm">Gallery Only</a></li>
-                    <li><a href="index-slider.htm">Slider Only</a></li>
+                <ul class="nav">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="about-us">About Us</a></li>
+                    <li><a href="features.htm">Portfolio</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="page-full-width.htm">Pages <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="page-full-width.htm">Full Width</a></li>
+                            <li><a href="page-right-sidebar.htm">Right Sidebar</a></li>
+                            <li><a href="page-left-sidebar.htm">Left Sidebar</a></li>
+                            <li><a href="page-double-sidebar.htm">Double Sidebar</a></li>
+                            <li><a href="page-price-table.htm">Prices Table</a></li>
+                            <li><a href="page-services.htm">Services</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="gallery-4col.htm">Gallery <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="gallery-3col.htm">Gallery 3 Column</a></li>
+                            <li><a href="gallery-4col.htm">Gallery 4 Column</a></li>
+                            <li><a href="gallery-6col.htm">Gallery 6 Column</a></li>
+                            <li><a href="gallery-single.htm">Gallery Single</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="blog-style1.htm">Blog <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="blog-style1.htm">Blog Style 1</a></li>
+                            <li><a href="blog-style2.htm">Blog Style 2</a></li>
+                            <li><a href="blog-single.htm">Blog Single</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="page-contact.htm">Contact</a></li>
                 </ul>
-            </li>
-           <li><a href="features.htm">Features</a></li>
-            <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="page-full-width.htm">Pages <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="page-full-width.htm">Full Width</a></li>
-                    <li><a href="page-right-sidebar.htm">Right Sidebar</a></li>
-                    <li><a href="page-left-sidebar.htm">Left Sidebar</a></li>
-                    <li><a href="page-double-sidebar.htm">Double Sidebar</a></li>
-                    <li><a href="page-price-table.htm">Prices Table</a></li>
-                    <li><a href="page-services.htm">Services</a></li>
-                </ul>
-            </li>
-             <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="gallery-4col.htm">Gallery <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="gallery-3col.htm">Gallery 3 Column</a></li>
-                    <li><a href="gallery-4col.htm">Gallery 4 Column</a></li>
-                    <li><a href="gallery-6col.htm">Gallery 6 Column</a></li>
-                    <li><a href="gallery-single.htm">Gallery Single</a></li>
-                </ul>
-             </li>
-             <li class="dropdown">
-                <a class="dropdown-toggle" data-toggle="dropdown" href="blog-style1.htm">Blog <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    <li><a href="blog-style1.htm">Blog Style 1</a></li>
-                    <li><a href="blog-style2.htm">Blog Style 2</a></li>
-                    <li><a href="blog-single.htm">Blog Single</a></li>
-                </ul>
-             </li>
-             <li><a href="page-contact.htm">Contact</a></li>
-            </ul>
 
             </div>
 
@@ -136,11 +130,9 @@ $(document).ready(function () {
                 <div class="mobile-nav-select">
                 <select onchange="window.open(this.options[this.selectedIndex].value,'_top')">
                     <option value="">Navigate...</option>
-                    <option value="index.htm">Home</option>
-                        <option value="index.htm">- Full Page</option>
-                        <option value="index-gallery.htm">- Gallery Only</option>
-                        <option value="index-slider.htm">- Slider Only</option>
-                    <option value="features.htm">Features</option>
+                    <option value="/">Home</option>
+                    <option value="about-us">About Us</option>
+                    <option value="features.htm">Portfolio</option>
                     <option value="page-full-width.htm">Pages</option>
                         <option value="page-full-width.htm">- Full Width</option>
                         <option value="page-right-sidebar.htm">- Right Sidebar</option>

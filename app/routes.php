@@ -15,3 +15,8 @@ Route::get('/', function()
 {
 	return View::make('index');
 });
+
+Route::get('about-us', function()
+{
+	return View::make('about-us');
+});
