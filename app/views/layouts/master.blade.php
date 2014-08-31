@@ -88,7 +88,7 @@ $(document).ready(function () {
             <div class="navbar hidden-phone">
 
             <ul class="nav">
-            <li class="dropdown active">
+            <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown" href="index-1.htm">Home <b class="caret"></b></a>
                 <ul class="dropdown-menu">
                     <li><a href="index">Full Page</a></li>
