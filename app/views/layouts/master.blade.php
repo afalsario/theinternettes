@@ -72,6 +72,16 @@ $(document).ready(function () {
     <div class="color-bar-1"></div>
     <div class="color-bar-2 color-bg"></div>
 
+    @if(Session::has('success'))
+        <div class="alert alert-success" role="alert">
+            <h3>{{ Session::get('success') }}</h3>
+        </div>
+    @elseif(Session::has('fail'))
+        <div class="alert alert-danger" role="alert">
+            <h3>{{Session::get('fail') }}</h3>
+        </div>
+    @endif
+
     <div class="container">
 
       <div class="row header"><!-- Begin Header -->
@@ -79,7 +89,7 @@ $(document).ready(function () {
         <!-- Logo
         ================================================== -->
         <div class="span5 logo">
-            <a href='index'><img src="/img/logo.png" alt=""></a>
+            <a href='/'><img src="/img/logo.png" alt=""></a>
         </div>
 
         <!-- Main Navigation
@@ -90,36 +100,10 @@ $(document).ready(function () {
                 <ul class="nav">
                     <li><a href="/">Home</a></li>
                     <li><a href="about-us">About Us</a></li>
-                    <li><a href="features.htm">Portfolio</a></li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="page-full-width.htm">Pages <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="page-full-width.htm">Full Width</a></li>
-                            <li><a href="page-right-sidebar.htm">Right Sidebar</a></li>
-                            <li><a href="page-left-sidebar.htm">Left Sidebar</a></li>
-                            <li><a href="page-double-sidebar.htm">Double Sidebar</a></li>
-                            <li><a href="page-price-table.htm">Prices Table</a></li>
-                            <li><a href="page-services.htm">Services</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="gallery-4col.htm">Gallery <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="gallery-3col.htm">Gallery 3 Column</a></li>
-                            <li><a href="gallery-4col.htm">Gallery 4 Column</a></li>
-                            <li><a href="gallery-6col.htm">Gallery 6 Column</a></li>
-                            <li><a href="gallery-single.htm">Gallery Single</a></li>
-                        </ul>
-                    </li>
-                    <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" href="blog-style1.htm">Blog <b class="caret"></b></a>
-                        <ul class="dropdown-menu">
-                            <li><a href="blog-style1.htm">Blog Style 1</a></li>
-                            <li><a href="blog-style2.htm">Blog Style 2</a></li>
-                            <li><a href="blog-single.htm">Blog Single</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="page-contact.htm">Contact</a></li>
+                    <li><a href="services">Services</a></li>
+                    <li><a href="portfolio">Portfolio</a></li>
+                    <li><a href="blog">Blog</a></li>
+                    <li><a href="contact">Contact</a></li>
                 </ul>
 
             </div>
@@ -132,23 +116,9 @@ $(document).ready(function () {
                     <option value="">Navigate...</option>
                     <option value="/">Home</option>
                     <option value="about-us">About Us</option>
-                    <option value="features.htm">Portfolio</option>
-                    <option value="page-full-width.htm">Pages</option>
-                        <option value="page-full-width.htm">- Full Width</option>
-                        <option value="page-right-sidebar.htm">- Right Sidebar</option>
-                        <option value="page-left-sidebar.htm">- Left Sidebar</option>
-                        <option value="page-double-sidebar.htm">- Double Sidebar</option>
-                        <option value="page-price-table.htm">- Prices Table</option>
-                        <option value="page-services.htm">- Services</option>
-                    <option value="gallery-4col.htm">Gallery</option>
-                        <option value="gallery-3col.htm">- 3 Column</option>
-                        <option value="gallery-4col.htm">- 4 Column</option>
-                        <option value="gallery-6col.htm">- 6 Column</option>
-                        <option value="gallery-single.htm">- Gallery Single</option>
-                    <option value="blog-style1.htm">Blog</option>
-                        <option value="blog-style1.htm">- Blog Style 1</option>
-                        <option value="blog-style2.htm">- Blog Style 2</option>
-                        <option value="blog-single.htm">- Blog Single</option>
+                    <option value="services">Services</option>
+                    <option value="portfolio">Portfolio</option>
+                    <option value="blog">Blog</option>
                     <option value="page-contact.htm">Contact</option>
                 </select>
                 </div>
@@ -224,7 +194,7 @@ $(document).ready(function () {
                         <div class="span6"><span class="left">Copyright 2012 Wonder Theme. All rights reserved.</span></div>
                         <div class="span6">
                             <span class="right">
-                            <a href="#">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Gallery</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Blog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#">Contact</a>
+                            <a href="/">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="about-us">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="services">Services</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="portfolio">Portfolio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="blog">Blog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contact">Contact</a>
                             </span>
                         </div>
                     </div>
