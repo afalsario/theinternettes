@@ -46,7 +46,7 @@
             <p>You should really go back.</p>
             <br>
             <p>
-                <button type="button" class="btn btn-default btn-lg"><a href="http://theinternettes.dev">Back</a></button>
+                <button type="button" class="btn btn-default btn-lg"><a href="http://theinternettes.com">Back</a></button>
             </p>
         </div>
     </body>
