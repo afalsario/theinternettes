@@ -11,31 +11,35 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('index');
+// Route::get('/', function()
+// {
+// 	return View::make('index');
+// });
+
+Route::get('/', function(){
+	return View::make('coming-soon');
 });
 
-Route::get('about-us', function()
-{
-	return View::make('about-us');
-});
+// Route::get('about-us', function()
+// {
+// 	return View::make('about-us');
+// });
 
-Route::get('portfolio', function()
-{
-	return View::make('portfolio');
-});
+// Route::get('portfolio', function()
+// {
+// 	return View::make('portfolio');
+// });
 
-Route::get('services', function()
-{
-	return View::make('services');
-});
+// Route::get('services', function()
+// {
+// 	return View::make('services');
+// });
 
-Route::get('blog', function()
-{
-	return View::make('blog');
-});
+// Route::get('blog', function()
+// {
+// 	return View::make('blog');
+// });
 
-Route::get('contact', 'ContactController@getContact');
+// Route::get('contact', 'ContactController@getContact');
 
-Route::post('contact_request', 'ContactController@getContactForm');
+// Route::post('contact_request', 'ContactController@getContactForm');
