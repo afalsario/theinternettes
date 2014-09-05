@@ -10,87 +10,81 @@
         ================================================== --> 
         <div class="span12 gallery">
 
-            <ul id="filterOptions" class="gallery-cats clearfix">
+          <!--   <ul id="filterOptions" class="gallery-cats clearfix">
                 <li class="active"><a href="#" class="all">All</a></li> 
                 <li><a href="#" class="tag1">Tag 1</a></li>
                 <li><a href="#" class="tag2">Tag 2</a></li>
                 <li><a href="#" class="tag3">Tag 3</a></li>
                 <li><a href="#" class="tag4">Tag 4</a></li>
-            </ul>
+            </ul> -->
 
             <div class="row clearfix">
                 <ul class="gallery-post-grid holder">
 
-                    <!-- Gallery Item 1 -->
+                    <!-- Common Art -->
                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="img/gallery/gallery-img-1-3col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Project Name Here</a>Add a beautiful description below.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Common Art</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
-                    <!-- Gallery Item 2 -->
-                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
+                    <!-- Chart Babe -->
+                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="img/gallery/gallery-img-2-3col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Project Name Here</a>Add a beautiful description below.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
-                    <!-- Gallery Item 3 -->
-                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag2">
+                    <!-- Ruff Love -->
+                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="img/gallery/gallery-img-3-3col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Project Name Here</a>Add a beautiful description below.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
-                    <!-- Gallery Item 4 -->
-                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag4">
+                    <!-- Amanda -->
+                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="img/gallery/gallery-img-4-3col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Project Name Here</a>Add a beautiful description below.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Amanda</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
-                    <!-- Gallery Item 5 -->
-                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag2">
+                    <!-- Greg -->
+                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="img/gallery/gallery-img-5-3col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Project Name Here</a>Add a beautiful description below.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Greg</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
-                    <!-- Gallery Item 6 -->
-                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag3">
+                    <!-- Ashley -->
+                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="img/gallery/gallery-img-6-3col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Project Name Here</a>Add a beautiful description below.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Ashley</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
 
@@ -98,7 +92,7 @@
             </div>
 
             <!-- Pagination -->
-            <div class="pagination">
+            <!-- <div class="pagination">
                 <ul>
                 <li class="active"><a href="#">Prev</a></li>
                 <li class="active"><a href="#">1</a></li>
@@ -106,7 +100,7 @@
                 <li><a href="#">3</a></li>
                 <li><a href="#">Next</a></li>
                 </ul>
-            </div>
+            </div> -->
 
         </div><!-- End gallery list-->
 

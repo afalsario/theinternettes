@@ -314,7 +314,7 @@ ul.nav li.dropdown:hover ul.dropdown-menu{ display: block; }
 a.item-zoom-link { 
 	height: 42px;
 	width: 42px;
-	background: #ffffff url(../img/gallery-item-icons.png) no-repeat;
+	background: #ffffff url(../img/gallery-item-icons-flip.png) no-repeat;
 	background-position: 0px 0px;
 	position:absolute;
 	display: block;
@@ -322,14 +322,14 @@ a.item-zoom-link {
 a.item-details-link { 
 	height: 42px;
 	width: 42px;
-	background: #ffffff url(../img/gallery-item-icons.png) no-repeat;
+	background: #ffffff url(../img/gallery-item-icons-flip.png) no-repeat;
 	background-position: -42px 0px;
 	position:absolute; 
 	left: 47px;
 	display: block;
 }
-a.item-zoom-link:hover {background: #ef4f1d url(../img/gallery-item-icons.png) no-repeat;}
-a.item-details-link:hover {background: #ef4f1d url(../img/gallery-item-icons.png) no-repeat; background-position: -42px 0px;}
+a.item-zoom-link:hover {background: #ef4f1d url(../img/gallery-item-icons-flip.png) no-repeat;}
+a.item-details-link:hover {background: #ef4f1d url(../img/gallery-item-icons-flip.png) no-repeat; background-position: -42px 0px;}
 
 .gallery-post-grid {margin:0px;}
 .gallery-post-grid li {list-style: none; float: left; margin-bottom: 30px;}
@@ -342,6 +342,17 @@ a.item-details-link:hover {background: #ef4f1d url(../img/gallery-item-icons.png
 	border-left: 1px dotted #a9a9a9;
 }
 .gallery-cats li:first-child{border-left:0px;}
+
+h6 {
+	margin: 0px;
+font-size: 12px;
+font-style: normal;
+text-shadow: none;
+display: block;
+font-family: "Arvo", sans-serif;
+font-weight: normal;
+text-transform: uppercase;
+}
 	
 	
 /**************************************
