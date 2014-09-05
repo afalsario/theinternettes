@@ -21,7 +21,7 @@
                 <div class="span4 gallery-item">
                     <img src="img/process1.png" alt="image">
                     <h5>Amanda Beller</h5>
-                    <p>Me and Spider-man have a few things in common. We both have the web in our hands. Although I cannot relate to Spider-Man in a complete literal sense, we have a lot in common figuratively. I desire to "leap tall buildings" with my development. Most importantly, I desire to rescue those in need of help. Whether that help is a complete make over for a website or the development of a website from the ground up, the success of someone else based on work that I have accomplished makes my day's work a job well done. Without letting my colorful metaphor take away from my seriousness, I am lucky to be working with a team as knowledgeable and passionate about their career as I am.</p>
+                    <p>Although I cannot relate to Spider-Man in a complete literal sense, we have a lot in common figuratively. I desire to "leap tall buildings" with my development. Most importantly, I desire to rescue those in need of help. Whether that help is a complete make over for a website or the development of a website from the ground up, the success of someone else based on work that I have accomplished makes my day's work a job well done. Without letting my colorful metaphor take away from my seriousness, I am lucky to be working with a team as knowledgeable and passionate about their career as I am.</p>
                 </div>
                 <div class="span4 gallery-item">
                     <img src="img/process2.png" alt="image">
