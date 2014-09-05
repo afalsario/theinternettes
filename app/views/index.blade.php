@@ -17,9 +17,9 @@
         <!-- Headline Text
         ================================================== -->
         <div class="span4">
-        	<h3>This is Wonderful. <br />
-            Wonder is a beautiful multipurpose HTML/CSS Theme.</h3>
-            <p class="lead">18+ html pages crafted with love! Responsive Design. BUY ME!</p>
+        	<h3>Let us do the complicated stuff.</h3>
+            <p class="lead">Our sole purpose is to provide you with great service and an <bold style="color:purple;">awesome</bold> product. Whether you need a website redesign or a site built from scratch, we can create something you'll love.</p>
+            <p class="lead">Do you need an app with <bold style="color:blue;">super cool</bold> features? We can code that too.</p>
         </div>
     </div><!-- End Headline -->
 
@@ -28,7 +28,7 @@
     	<div class="span12">
             <h5 class="title-bg">Take a Look
                 <small>at our recent work</small>
-                <button class="btn btn-mini hidden-phone" type="button">View Portfolio</button>
+                <button class="btn btn-mini hidden-phone" type="button"><a href="portfolio">View Portfolio</a></button>
             </h5>
 
         <!-- Gallery Thumbnails
@@ -38,51 +38,36 @@
             <ul class="gallery-post-grid holder">
 
                     <!-- Gallery Item 1 -->
-                    <li  class="span3 gallery-item" data-id="id-1" data-type="illustration">
-                        <span class="gallery-hover-4col hidden-phone hidden-tablet">
+                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
+                        <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="/img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-img-1-4col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Bad Dinosaur</a>Not so bad really.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Common Art</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
                     <!-- Gallery Item 2 -->
-                    <li class="span3 gallery-item" data-id="id-2" data-type="illustration">
-                        <span class="gallery-hover-4col hidden-phone hidden-tablet">
+                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
+                        <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="/img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-img-2-4col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">I come in peace</a>Take me with your leader.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
                     <!-- Gallery Item 3 -->
-                    <li class="span3 gallery-item" data-id="id-3" data-type="web">
-                        <span class="gallery-hover-4col hidden-phone hidden-tablet">
+                    <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
+                        <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="/img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="#" class="item-details-link"></a>
+                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-img-3-4col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Pink Unicorn</a>Yes, Unicorns are Pink.</span>
-                    </li>
-
-                    <!-- Gallery Item 4 -->
-                    <li class="span3 gallery-item" data-id="id-4" data-type="video">
-                        <span class="gallery-hover-4col hidden-phone hidden-tablet">
-                            <span class="gallery-icons">
-                                <a href="/img/gallery/gallery-img-full.jpg" class="item-zoom-link lightbox" title="Custom Illustration" data-rel="prettyPhoto"></a>
-                                <a href="gallery-single.htm" class="item-details-link"></a>
-                            </span>
-                        </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-img-4-4col.jpg" alt="Gallery"></a>
-                        <span class="project-details"><a href="gallery-single.htm">Really Bad Guy</a>Also I love skates.</span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
                 </ul>
@@ -91,11 +76,11 @@
 
     </div><!-- End Gallery Row -->
 
-    <div class="row"><!-- Begin Bottom Section -->
+    <!-- <div class="row">Begin Bottom Section -->
 
     	<!-- Blog Preview
         ================================================== -->
-    	<div class="span6">
+    	<!-- <div class="span6">
 
             <h5 class="title-bg">From the Blog
                 <small>All the latest news</small>
@@ -103,13 +88,13 @@
                 <button id="btn-blog-prev" class="btn btn-inverse btn-mini" type="button">&laquo;</button>
             </h5>
 
-        <div id="blogCarousel" class="carousel slide ">
+        <div id="blogCarousel" class="carousel slide "> -->
 
             <!-- Carousel items -->
-            <div class="carousel-inner">
+            <!-- <div class="carousel-inner"> -->
 
                  <!-- Blog Item 1 -->
-                <div class="active item">
+                <!-- <div class="active item">
                     <a href="blog-single.htm"><img src="/img/gallery/blog-med-img-1.jpg" alt="" class="align-left blog-thumb-preview"></a>
                     <div class="post-info clearfix">
                         <h4><a href="blog-single.htm">You are Super Awesome.</a></h4>
@@ -121,10 +106,10 @@
                         </ul>
                     </div>
                     <p class="blog-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In interdum felis fermentum ipsum molestie sed porttitor ligula rutrum. <a href="#">Read more</a><p>
-                </div>
+                </div> -->
 
                 <!-- Blog Item 2 -->
-                 <div class="item">
+                 <!-- <div class="item">
                     <a href="blog-single.htm"><img src="/img/gallery/blog-med-img-2.jpg" alt="" class="align-left blog-thumb-preview"></a>
                     <div class="post-info clearfix">
                         <h4><a href="blog-single.htm">Han Shot First!</a></h4>
@@ -136,22 +121,22 @@
                         </ul>
                     </div>
                     <p class="blog-summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In interdum felis fermentum ipsum molestie sed porttitor ligula rutrum. <a href="#">Read more</a><p>
-                </div>
+                </div> -->
 
+            <!-- </div>
             </div>
-            </div>
-        </div>
+        </div> -->
 
         <!-- Video Area
         ================================================== -->
-        <div class="span6">
+        <!-- <div class="span6">
             <h5 class="title-bg">Recent Video
                 <small>created by us</small>
             </h5>
 			<iframe src="http://player.vimeo.com/video/44049449" width="100%"  height="300" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-        </div>
+        </div> -->
 
-    </div><!-- End Bottom Section -->
+    <!-- </div>End Bottom Section -->
 
     </div> <!-- End Container -->
 
