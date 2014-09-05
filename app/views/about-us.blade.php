@@ -16,7 +16,7 @@
                 <div class="span4 gallery-item">
                     <img src="img/process3.png" alt="image">
                     <h5>Ashley Falsario</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mattis lorem, quis gravida nunc iaculis ac. Proin tristique tellus in est vulputate luctus fermentum ipsum molestie. Vivamus tincidunt sem eu magna varius elementum. Maecenas felis tellus, fermentum vitae laoreet vitae, volutpat et urna. Nulla faucibus ligula eget ante varius ac euismod odio placerat. Nam sit amet felis non lorem faucibus rhoncus vitae id dui.</p>
+                    <p>My favorite part of development is showing a client a work in progress. That's the time when we get the best feedback. From there, we are able to make the design or app even better. The Internettes are all about happy clients and awesome development!</p>
                 </div>
                 <div class="span4 gallery-item">
                     <img src="img/process1.png" alt="image">
@@ -29,21 +29,6 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mattis lorem, quis gravida nunc iaculis ac. Proin tristique tellus in est vulputate luctus fermentum ipsum molestie. Vivamus tincidunt sem eu magna varius elementum. Maecenas felis tellus, fermentum vitae laoreet vitae, volutpat et urna. Nulla faucibus ligula eget ante varius ac euismod odio placerat. Nam sit amet felis non lorem faucibus rhoncus vitae id dui.</p>
                 </div>
             </div>
-
-            <!-- <h4 class="title-bg"> Other Services</h4>
-            <div class="row">
-                <div class="span6">
-                    <img src="img/gallery/gallery-img-1-2col.jpg" alt="image">
-                    <h5>Service 5</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mattis lorem, quis gravida nunc iaculis ac. Proin tristique tellus in est vulputate luctus fermentum ipsum molestie. Vivamus tincidunt sem eu magna varius elementum. Maecenas felis tellus, fermentum vitae laoreet vitae, volutpat et urna. Nulla faucibus ligula eget ante varius ac euismod odio placerat. Nam sit amet felis non lorem faucibus rhoncus vitae id dui.</p>
-                </div>
-                <div class="span6">
-                    <img src="img/gallery/gallery-img-2-2col.jpg" alt="image">
-                    <h5>Service 6</h5>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mattis lorem, quis gravida nunc iaculis ac. Proin tristique tellus in est vulputate luctus fermentum ipsum molestie. Vivamus tincidunt sem eu magna varius elementum. Maecenas felis tellus, fermentum vitae laoreet vitae, volutpat et urna. Nulla faucibus ligula eget ante varius ac euismod odio placerat. Nam sit amet felis non lorem faucibus rhoncus vitae id dui.</p>
-                </div>
-            </div> -->
-
         </div> 
     </div>
     
