@@ -17,9 +17,9 @@
         <!-- Headline Text
         ================================================== -->
         <div class="span4">
-        	<h3>This is Wonderful. <br />
-            Wonder is a beautiful multipurpose HTML/CSS Theme.</h3>
-            <p class="lead">18+ html pages crafted with love! Responsive Design. BUY ME!</p>
+        	<h3>Let us do the complicated stuff.</h3>
+            <p class="lead">Our sole purpose is to provide you with great service and an <bold style="color:purple;">awesome</bold> product. Whether you need a website redesign or a site built from scratch, we can create something you'll love.</p>
+            <p class="lead">Do you need an app with <bold style="color:blue;">super cool</bold> features? We can code that too.</p>
         </div>
     </div><!-- End Headline -->
 
@@ -56,7 +56,7 @@
                             </span>
                         </span>
                         <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
-                        <span class="project-details"><h6>Common Art</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
+                        <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
                     <!-- Gallery Item 3 -->
@@ -67,7 +67,7 @@
                             </span>
                         </span>
                         <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
-                        <span class="project-details"><h6>Common Art</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
+                        <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
                 </ul>
