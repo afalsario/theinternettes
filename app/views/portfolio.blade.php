@@ -50,8 +50,8 @@
                                 <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
-                        <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
+                        <a href="gallery-single.htm"><img src="/img/rufflove.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://ruff-love.com" target="_blank">View Site</a></button></span>
                     </li>
 
                     <!-- Amanda -->
@@ -61,8 +61,8 @@
                                 <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
-                        <span class="project-details"><h6>Amanda</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
+                        <a href="gallery-single.htm"><img src="/img/amandarosebeller.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Amanda</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://amandarosebeller.club" target="_blank">View Site</a></button></span>
                     </li>
 
                     <!-- Greg -->
