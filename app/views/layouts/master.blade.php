@@ -102,7 +102,7 @@ $(document).ready(function () {
                     <li><a href="about-us">About Us</a></li>
                     <li><a href="services">Services</a></li>
                     <li><a href="portfolio">Portfolio</a></li>
-                    <li><a href="blog">Blog</a></li>
+                    <!-- <li><a href="blog">Blog</a></li> -->
                     <li><a href="contact">Contact</a></li>
                 </ul>
 
@@ -118,7 +118,7 @@ $(document).ready(function () {
                     <option value="about-us">About Us</option>
                     <option value="services">Services</option>
                     <option value="portfolio">Portfolio</option>
-                    <option value="blog">Blog</option>
+                    <!-- <option value="blog">Blog</option> -->
                     <option value="page-contact.htm">Contact</option>
                 </select>
                 </div>
@@ -194,7 +194,7 @@ $(document).ready(function () {
                         <div class="span6"><span class="left">Copyright 2014 The Internettes. All rights reserved.</span></div>
                         <div class="span6">
                             <span class="right">
-                            <a href="/">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="about-us">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="services">Services</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="portfolio">Portfolio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="blog">Blog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contact">Contact</a>
+                            <a href="/">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="about-us">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="services">Services</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="portfolio">Portfolio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contact">Contact</a>
                             </span>
                         </div>
                     </div>
