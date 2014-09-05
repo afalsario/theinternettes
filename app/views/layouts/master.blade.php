@@ -135,31 +135,31 @@ $(document).ready(function () {
     <div class="footer-container"><!-- Begin Footer -->
         <div class="container">
             <div class="row footer-row">
-                <div class="span3 footer-col">
+               <!--  <div class="span3 footer-col">
                     <h5>Contact Us</h5>
-                   <img src="/img/logo.png" alt="Wonder" ><br><br>
-                    <address>
+                   <img src="/img/logo.png" alt="Wonder" ><br><br> -->
+                    <!-- <address>
                         <strong>Wonder Bunker</strong><br>
                         6064 Amazing St, <br>
                         Madrid, Spain.<br>
-                    </address>
-                    <ul class="social-icons">
+                    </address> -->
+                    <!-- <ul class="social-icons">
                         <li><a href="https://www.facebook.com/internettes" class="social-icon facebook"></a></li>
-                        <li><a href="#" class="social-icon twitter"></a></li>
-                        <li><a href="#" class="social-icon dribble"></a></li>
+                        <li><a href="#" class="social-icon twitter"></a></li> -->
+                        <!-- <li><a href="#" class="social-icon dribble"></a></li>
                         <li><a href="#" class="social-icon rss"></a></li>
-                        <li><a href="#" class="social-icon forrst"></a></li>
-                    </ul>
-                </div>
-                <div class="span3 footer-col">
+                        <li><a href="#" class="social-icon forrst"></a></li> -->
+                    <!-- </ul> -->
+              <!--   </div> -->
+              <!--   <div class="span3 footer-col">
                     <h5>Latest Tweets</h5>
                     <ul>
                         <li><a href="#">@Basicoh_</a> Hey! Buy this beautiful theme right now!.</li>
                         <li><a href="#">@Basicoh_</a> Wonder Theme is out Now!. You can buy it in Wrapbootstrap.com. Really easy to configure with a wonderful design.</li>
                         <li><a href="#">@Basicoh_</a> If you are an agency, freelancer or a studio, this theme is made for you. Take a look and enjoy it.</li>
                     </ul>
-                </div>
-                <div class="span3 footer-col">
+                </div> -->
+                <!-- <div class="span3 footer-col">
                     <h5>Latest Posts</h5>
                      <ul class="post-list">
                         <li><a href="#">Example post number 1</a></li>
@@ -185,13 +185,13 @@ $(document).ready(function () {
                         <li><a href="#"><img src="/img/gallery/flickr-img-11.jpg" alt="Image Feed"></a></li>
                         <li><a href="#"><img src="/img/gallery/flickr-img-12.jpg" alt="Image Feed"></a></li>
                     </ul>
-                </div>
+                </div> -->
             </div>
 
             <div class="row"><!-- Begin Sub Footer -->
                 <div class="span12 footer-col footer-sub">
                     <div class="row no-margin">
-                        <div class="span6"><span class="left">Copyright 2012 Wonder Theme. All rights reserved.</span></div>
+                        <div class="span6"><span class="left">Copyright 2014 The Internettes. All rights reserved.</span></div>
                         <div class="span6">
                             <span class="right">
                             <a href="/">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="about-us">About Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="services">Services</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="portfolio">Portfolio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="blog">Blog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="contact">Contact</a>

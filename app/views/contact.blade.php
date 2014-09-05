@@ -46,23 +46,35 @@
         <!-- Sidebar
         ================================================== --> 
         <div class="span4 sidebar page-sidebar"><!-- Begin sidebar column -->
-            <h5 class="title-bg">Our Location</h5>
-            <address>
+            <h5 class="title-bg">Social Media</h5>
+            <!-- <address>
             <strong>Wonder Bunker</strong><br>
             6064 Amazing St, <br>
             Madrid, Spain.<br>
             <abbr title="Phone">P:</abbr> (123) 456-7890
-            </address>
-             
+            </address> -->
+
             <address>
             <strong>Email us!</strong><br>
             <a href="mailto:#">internettestx@gmail.com</a>
             </address>
 
+            <ul class="social-icons">
+                <li><a href="https://www.facebook.com/internettes" class="social-icon facebook"></a></li>
+                <li><a href="https://twitter.com/InternettesTX" class="social-icon twitter"></a></li>
+                <!-- <li><a href="#" class="social-icon dribble"></a></li>
+                <li><a href="#" class="social-icon rss"></a></li>
+                <li><a href="#" class="social-icon forrst"></a></li> -->
+            </ul>
+
+            <br>
+            <br>
+            
+
             <h5 class="title-bg">Map</h5>
     <!-- "Map" Message -->
-           	<div class="map"><iframe width="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?ie=UTF8&amp;q=las+tablas,+madrid&amp;fb=1&amp;hq=las+tablas,&amp;hnear=0xd42287d383766c9:0xad469cc0ed50997d,Madrid,+Espa%C3%B1a&amp;cid=0,0,15011046097507982567&amp;t=m&amp;iwloc=A&amp;ll=40.421889,-3.713523&amp;spn=0.006295,0.006295&amp;output=embed"></iframe></div>
-
+           	<div class="map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d222400.96092930614!2d-98.75057265090561!3d29.42835757913188!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x865c5f53ace83499%3A0x9584ae946a1e0d61!2sGeekdom!5e0!3m2!1sen!2sus!4v1409879224366" width="355" height="300" frameborder="0" style="border:0"></iframe></div>
+        
         </div><!-- End sidebar column -->
 
     </div><!-- End container row -->
