@@ -80,10 +80,10 @@
                      <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
+                                <a href="/img/big-blog.png" class="item-details-link lightbox" title="AshleyFalsario.com" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-blog.png" alt="Gallery"></a>
                         <span class="project-details"><h6>Ashley</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 

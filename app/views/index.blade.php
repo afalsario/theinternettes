@@ -63,7 +63,7 @@
                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
+                                <a href="/img/largerufflove.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
                         <a href="gallery-single.htm"><img src="/img/rufflove.png" alt="Gallery"></a>
