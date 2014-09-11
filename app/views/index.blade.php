@@ -9,7 +9,7 @@
             <div class="flexslider">
               <ul class="slides">
                 <li><a href="gallery-single.htm"><img src="img/gallery/g4300.png" alt="slider"></a></li>
-                <li><a href="gallery-single.htm"><img src="img/gallery/slider2.jpg" alt="slider"></a></li>
+                <li><a href="gallery-single.htm"><img src="img/gallery/class-slide3.jpg" alt="slider"></a></li>
                 <li><a href="gallery-single.htm"><img src="img/gallery/slider3.jpg" alt="slider"></a></li>
               </ul>
             </div>

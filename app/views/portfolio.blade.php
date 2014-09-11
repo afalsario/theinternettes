@@ -84,7 +84,7 @@
                             </span>
                         </span>
                         <a href="gallery-single.htm"><img src="/img/gallery/gallery-blog.png" alt="Gallery"></a>
-                        <span class="project-details"><h6>Ashley</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
+                        <span class="project-details"><h6>Ashley</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://ashleyfalsario.com" target="_blank">View Site</a></button></span>
                     </li>
 
 

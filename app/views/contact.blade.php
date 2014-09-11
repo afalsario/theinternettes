@@ -9,7 +9,7 @@
         <div class="span8 contact"><!--Begin page content column-->
 
             <h2>Contact Us</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mattis lorem, quis gravida nunc iaculis ac. Proin tristique tellus in est vulputate luctus fermentum ipsum molestie. Vivamus tincidunt sem eu magna varius elementum. Maecenas felis tellus, fermentum vitae laoreet vitae, volutpat et urna.</p>
+            <p>We would love to talk to you about your web development needs. If you would like more information about what we can do for you, contact us! We'll get back to you ASAP!</p>
                 <ul class='errors'>
                     @foreach($errors->all('<li>:message</li>') as $message)
                     {{ $message }}
