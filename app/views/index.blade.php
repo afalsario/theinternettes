@@ -10,7 +10,7 @@
               <ul class="slides">
                 <li><a href="gallery-single.htm"><img src="img/gallery/g4300.png" alt="slider"></a></li>
                 <li><a href="gallery-single.htm"><img src="img/gallery/class-slide3.jpg" alt="slider"></a></li>
-                <li><a href="gallery-single.htm"><img src="img/gallery/slider3.jpg" alt="slider"></a></li>
+               <!--  <li><a href="gallery-single.htm"><img src="img/gallery/slider3.jpg" alt="slider"></a></li> -->
               </ul>
             </div>
         </div>
@@ -18,8 +18,8 @@
         ================================================== -->
         <div class="span4">
         	<h3>Let us do the complicated stuff.</h3>
-            <p class="lead">Our sole purpose is to provide you with great service and an <bold style="color:purple;">awesome</bold> product. Whether you need a website redesign or a site built from scratch, we can create something you'll love.</p>
-            <p class="lead">Do you need an app with <bold style="color:blue;">super cool</bold> features? We can code that too.</p>
+            <p class="lead">Our sole purpose is to provide you with great service and an <br><bold style="color:purple;">awesome</bold> product. Whether you need a website redesign or a site built from scratch, we can create something you'll love.</p>
+            <p class="lead">Do you need a web app with <bold style="color:blue;">super cool</bold> features? We can code that too.</p>
         </div>
     </div><!-- End Headline -->
 
