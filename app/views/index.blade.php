@@ -9,8 +9,8 @@
             <div class="flexslider">
               <ul class="slides">
                 <li><a href="gallery-single.htm"><img src="img/gallery/g4300.png" alt="slider"></a></li>
-                <li><a href="gallery-single.htm"><img src="img/gallery/slider2.jpg" alt="slider"></a></li>
-                <li><a href="gallery-single.htm"><img src="img/gallery/slider3.jpg" alt="slider"></a></li>
+                <li><a href="gallery-single.htm"><img src="img/gallery/class-slide3.jpg" alt="slider"></a></li>
+               <!--  <li><a href="gallery-single.htm"><img src="img/gallery/slider3.jpg" alt="slider"></a></li> -->
               </ul>
             </div>
         </div>
@@ -18,8 +18,8 @@
         ================================================== -->
         <div class="span4">
         	<h3>Let us do the complicated stuff.</h3>
-            <p class="lead">Our sole purpose is to provide you with great service and an <bold style="color:purple;">awesome</bold> product. Whether you need a website redesign or a site built from scratch, we can create something you'll love.</p>
-            <p class="lead">Do you need an app with <bold style="color:blue;">super cool</bold> features? We can code that too.</p>
+            <p class="lead">Our sole purpose is to provide you with great service and an <br><bold style="color:purple;">awesome</bold> product. Whether you need a website redesign or a site built from scratch, we can create something you'll love.</p>
+            <p class="lead">Do you need a web app with <bold style="color:blue;">super cool</bold> features? We can code that too.</p>
         </div>
     </div><!-- End Headline -->
 
@@ -52,11 +52,11 @@
                     <li  class="span4 gallery-item" data-id="id-1" data-type="tag1">
                         <span class="gallery-hover-3col hidden-phone hidden-tablet">
                             <span class="gallery-icons">
-                                <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
+                                <a href="/img/big-cb.png" class="item-details-link lightbox" title="Chart Babe" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
-                        <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
+                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-cb.png" alt="Gallery"></a>
+                        <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://chartbabe.com" target="_blank">View Site</a></button></span>
                     </li>
 
                     <!-- Gallery Item 3 -->
