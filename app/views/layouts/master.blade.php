@@ -88,13 +88,13 @@ $(document).ready(function () {
 
         <!-- Logo
         ================================================== -->
-        <div class="span5 logo">
-            <a href='/'><img src="/img/logo.png" alt=""></a>
+        <div class="span5 logo internettes">
+            <a href='/'><img responsive src="/img/logo.png" alt=""></a>
         </div>
 
         <!-- Main Navigation
         ================================================== -->
-        <div class="span7 navigation">
+        <div class="span7 navigation internav">
             <div class="navbar hidden-phone">
 
                 <ul class="nav">
