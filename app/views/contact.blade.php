@@ -62,9 +62,6 @@
             <ul class="social-icons">
                 <li><a href="https://www.facebook.com/internettes" class="social-icon facebook"></a></li>
                 <li><a href="https://twitter.com/InternettesTX" class="social-icon twitter"></a></li>
-                <!-- <li><a href="#" class="social-icon dribble"></a></li>
-                <li><a href="#" class="social-icon rss"></a></li>
-                <li><a href="#" class="social-icon forrst"></a></li> -->
             </ul>
 
             <br>
