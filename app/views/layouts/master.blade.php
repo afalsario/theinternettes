@@ -119,7 +119,7 @@ $(document).ready(function () {
                     <option value="services">Services</option>
                     <option value="portfolio">Portfolio</option>
                     <!-- <option value="blog">Blog</option> -->
-                    <option value="page-contact.htm">Contact</option>
+                    <option value="contact">Contact</option>
                 </select>
                 </div>
                 </form>
