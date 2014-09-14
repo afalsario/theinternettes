@@ -44,7 +44,7 @@
                                 <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <img src="/img/gallery/gallery-commonart-home.png" alt="Gallery">
                         <span class="project-details"><h6>Common Art</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -55,7 +55,7 @@
                                 <a href="/img/big-cb.png" class="item-details-link lightbox" title="Chart Babe" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-cb.png" alt="Gallery"></a>
+                        <img src="/img/gallery/gallery-cb.png" alt="Gallery">
                         <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://chartbabe.com" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -66,7 +66,7 @@
                                 <a href="/img/largerufflove.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/rufflove.png" alt="Gallery"></a>
+                        <img src="/img/rufflove.png" alt="Gallery">
                         <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://ruff-love.com" target="_blank">View Site</a></button></span>
                     </li>
 

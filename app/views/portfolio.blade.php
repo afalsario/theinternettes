@@ -28,7 +28,7 @@
                                 <a href="/img/gallery/commonart-home.png" class="item-details-link lightbox" title="Common Art" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-commonart-home.png" alt="Gallery"></a>
+                        <img src="/img/gallery/gallery-commonart-home.png" alt="Gallery">
                         <span class="project-details"><h6>Common Art</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://commonart-sa.com" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -39,7 +39,7 @@
                                 <a href="/img/big-cb.png" class="item-details-link lightbox" title="Chart Babe" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-cb.png" alt="Gallery"></a>
+                        <img src="/img/gallery/gallery-cb.png" alt="Gallery">
                         <span class="project-details"><h6>Chart Babe</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://chartbabe.com" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -50,7 +50,7 @@
                                 <a href="/img/largerufflove.png" class="item-details-link lightbox" title="Ruff Love" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/rufflove.png" alt="Gallery"></a>
+                        <img src="/img/rufflove.png" alt="Gallery">
                         <span class="project-details"><h6>Ruff Love</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://ruff-love.com" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -61,7 +61,7 @@
                                 <a href="/img/bigamandarosebeller.png" class="item-details-link lightbox" title="Amanda Beller" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/amandarosebeller.png" alt="Gallery"></a>
+                        <img src="/img/amandarosebeller.png" alt="Gallery">
                         <span class="project-details"><h6>Amanda</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://amandarosebeller.club" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -72,7 +72,7 @@
                                 <a href="/img/big-greg.png" class="item-details-link lightbox" title="Greg Vallejo" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-greg.png" alt="Gallery"></a>
+                        <img src="/img/gallery/gallery-greg.png" alt="Gallery">
                         <span class="project-details"><h6>Greg</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://gregvallejo.com" target="_blank">View Site</a></button></span>
                     </li>
 
@@ -83,7 +83,7 @@
                                 <a href="/img/big-blog.png" class="item-details-link lightbox" title="AshleyFalsario.com" data-rel="prettyPhoto"></a>
                             </span>
                         </span>
-                        <a href="gallery-single.htm"><img src="/img/gallery/gallery-blog.png" alt="Gallery"></a>
+                        <img src="/img/gallery/gallery-blog.png" alt="Gallery">
                         <span class="project-details"><h6>Ashley</h6><button class="btn btn-mini btn-warning" type="button"><a href="http://ashleyfalsario.com" target="_blank">View Site</a></button></span>
                     </li>
 
