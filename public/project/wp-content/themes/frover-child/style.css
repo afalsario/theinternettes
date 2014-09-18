@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Frover Child 
+ Description:  This is the cool child theme I made from watching WordPress Wednesday 
+ Author:       The Internettes
+ Author URI:   http://theinternettes.com
+ Template:     frover
+*/
+
+
+@import url("../frover/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+.child-divider {
+    margin-top: -20px;
+    margin-bottom: 10px;
+    background:rgb(95, 183, 233);
+    style:solid;
+}
+
+.ls-sc-grid_3.alpha {
+    margin-right: 5%;
+    margin-left: 3%;
+}
